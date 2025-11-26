@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ProfsMetrics - NIT Jalandhar Faculty Analytics</title>
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo-section">
+                    <img src="/logo.png" alt="ProfsMetrics" class="logo">
+                    <div class="logo-text">
+                        <h1>ProfsMetrics</h1>
+                        <p>NIT Jalandhar Faculty Data Analytics</p>
+                    </div>
+                </div>
+                <nav class="nav-buttons">
+                    <button class="nav-btn active" data-view="overview">Overview</button>
+                    <button class="nav-btn" data-view="faculty">Faculty</button>
+                    <button class="nav-btn" data-view="departments">Departments</button>
+                    <button class="nav-btn" data-view="upload">Upload Data</button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Upload Section -->
+            <div id="upload-section" class="section" style="display: none;">
+                <div class="upload-card">
+                    <h2>Upload Your CSV Data</h2>
+                    <p class="upload-description">Upload your <code>final_cleaned_data.csv</code> file to visualize your faculty data</p>
+                    <div class="upload-area" id="uploadArea">
+                        <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="17 8 12 3 7 8"></polyline>
+                            <line x1="12" y1="3" x2="12" y2="15"></line>
+                        </svg>
+                        <p>Drag & Drop your CSV file here</p>
+                        <p class="upload-or">or</p>
+                        <label class="upload-btn">
+                            Browse Files
+                            <input type="file" id="csvFile" accept=".csv" style="display: none;">
+                        </label>
+                    </div>
+                    <div id="uploadStatus" class="upload-status"></div>
+                </div>
+            </div>
+
+            <!-- Search and Filters -->
+            <div id="filters-section" class="filters-card">
+                <div class="filters-grid">
+                    <div class="search-box">
+                        <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="m21 21-4.35-4.35"></path>
+                        </svg>
+                        <input type="text" id="searchInput" placeholder="Search faculty by name...">
+                    </div>
+                    <select id="deptFilter" class="filter-select">
+                        <option value="All">All Departments</option>
+                    </select>
+                    <select id="categoryFilter" class="filter-select">
+                        <option value="All">All Categories</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Overview Section -->
+            <div id="overview-section" class="section">
+                <!-- Stats Cards -->
+                <div class="stats-grid">
+                    <div class="stat-card stat-teal">
+                        <div class="stat-header">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                                <circle cx="9" cy="7" r="4"></circle>
+                                <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                                <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                            </svg>
+                            <span>Faculty</span>
+                        </div>
+                        <div class="stat-value" id="totalFaculty">0</div>
+                        <div class="stat-label">Active Members</div>
+                    </div>
+
+                    <div class="stat-card stat-blue">
+                        <div class="stat-header">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                                <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                            </svg>
+                            <span>Publications</span>
+                        </div>
+                        <div class="stat-value" id="totalPublications">0</div>
+                        <div class="stat-label">Total Research Output</div>
+                    </div>
+
+                    <div class="stat-card stat-yellow">
+                        <div class="stat-header">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
+                                <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
+                            </svg>
+                            <span>Projects</span>
+                        </div>
+                        <div class="stat-value" id="totalProjects">0</div>
+                        <div class="stat-label">Research Projects</div>
+                    </div>
+
+                    <div class="stat-card stat-purple">
+                        <div class="stat-header">
+                            <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+                            </svg>
+                            <span>Average</span>
+                        </div>
+                        <div class="stat-value" id="avgPublications">0</div>
+                        <div class="stat-label">Pubs per Faculty</div>
+                    </div>
+                </div>
+
+                <!-- Charts Section -->
+                <div class="charts-grid">
+                    <div class="chart-card">
+                        <h3>Publications by Department</h3>
+                        <canvas id="deptChart"></canvas>
+                    </div>
+                    <div class="chart-card">
+                        <h3>Research Domain Distribution</h3>
+                        <canvas id="domainChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- Top Performers Table -->
+                <div class="table-card">
+                    <h3 class="table-title">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="8" r="7"></circle>
+                            <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>
+                        </svg>
+                        Top 20 Faculty by Publications
+                    </h3>
+                    <div class="table-container">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Rank</th>
+                                    <th>Name</th>
+                                    <th>Department</th>
+                                    <th>Domain</th>
+                                    <th>Publications</th>
+                                    <th>Projects</th>
+                                </tr>
+                            </thead>
+                            <tbody id="topPerformersTable"></tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Scatter Chart -->
+                <div class="chart-card chart-large">
+                    <h3>Publications vs Projects Analysis</h3>
+                    <canvas id="scatterChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Faculty Section -->
+            <div id="faculty-section" class="section" style="display: none;">
+                <div id="facultyGrid" class="faculty-grid"></div>
+            </div>
+
+            <!-- Departments Section -->
+            <div id="departments-section" class="section" style="display: none;">
+                <div class="departments-header">
+                    <h2>Department Analysis</h2>
+                    <p>Click on any department to view detailed analytics</p>
+                </div>
+                <div id="departmentsGrid" class="departments-grid"></div>
+            </div>
+
+            <!-- Department Detail Modal -->
+            <div id="deptDetailModal" class="modal">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2 id="modalDeptName"></h2>
+                        <button class="modal-close" id="closeModal">×</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="charts-grid">
+                            <div class="chart-card">
+                                <h3>Domain Category Distribution</h3>
+                                <canvas id="modalDomainChart"></canvas>
+                            </div>
+                            <div class="chart-card">
+                                <h3>Publication Type Distribution</h3>
+                                <canvas id="modalPubTypeChart"></canvas>
+                            </div>
+                            <div class="chart-card">
+                                <h3>Top 5 Faculty</h3>
+                                <canvas id="modalTopFacultyChart"></canvas>
+                            </div>
+                            <div class="chart-card">
+                                <h3>Publications vs Projects</h3>
+                                <canvas id="modalScatterChart"></canvas>
+                            </div>
+                        </div>
+                        
+                        <!-- Faculty List in Department -->
+                        <div class="table-card">
+                            <h3>Faculty Members</h3>
+                            <div class="table-container">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Name</th>
+                                            <th>Designation</th>
+                                            <th>Domain</th>
+                                            <th>Journals</th>
+                                            <th>Conferences</th>
+                                            <th>Books</th>
+                                            <th>Projects</th>
+                                            <th>Total Pubs</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="modalFacultyTable"></tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>© 2025 ProfsMetrics. Designed and Built by Shiv Kumar Bawa.</p>
+            <p>Data analysis powered by advanced analytics</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

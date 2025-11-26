@@ -1,0 +1,254 @@
+S.No.,Name,Designation,Department,Domain,No. of Journal Publications,No. of Conference Publications,Book/Chapter,Research Projects - Completed,Research Projects - Ongoing,Total Publications,All_Domains,Primary Domain,Domain Category,Total_Projects,Has_Projects
+1,Dr Sharvan Kumar Pahuja,Professor & Head,Electrical Engineering,signal processing,27,11,5,5,0,43,['signal processing'],signal processing,Signal Processing & Control,5,True
+2,Dr Harimurugan,Assistant Professor (Grade-I),Electrical Engineering,ML,12,14,1,1,0,27,['machine learning'],machine learning,AI & ML,1,True
+3,Dr Kailash Chand Sharma,Assistant Professor (Grade-I),Electrical Engineering,ML,23,24,1,0,0,48,['machine learning'],machine learning,AI & ML,0,False
+4,Dr. Mahesh Kumar,Assistant Professor (Grade-I),Electrical Engineering,Power system,10,13,4,0,0,27,['power systems'],power systems,Power & Energy,0,False
+5,Dr Arun Rathore,Assistant Professor Garde-II,Electrical Engineering,Power System,15,14,1,0,0,30,['power systems'],power systems,Power & Energy,0,False
+6,Dr Bhukya Nageswar Rao,Assistant Professor Grade-II,Electrical Engineering,micro grid,12,12,1,0,0,25,['microgrid'],microgrid,Power & Energy,0,False
+7,Dr Debottam Mukherjee,Assistant Professor (Grade-II),Electrical Engineering,Power System,14,18,1,0,0,33,['power systems'],power systems,Power & Energy,0,False
+8,Dr Madan Kumar Das,Assistant Professor Garde-II,Electrical Engineering,micro grid,8,15,2,0,1,25,['microgrid'],microgrid,Power & Energy,1,True
+9,Dr Krishanu Nath,Assistant Professor (Grade-II),Electrical Engineering,Robotics,11,18,0,0,0,29,['robotics'],robotics,Robotics & Automation,0,False
+10,Dr Pothuraju Ramakrishna,Assistant Professor Garde-II,Electrical Engineering,Power system,7,12,1,0,2,20,['power systems'],power systems,Power & Energy,2,True
+11,Dr. Sounak Nandi,Assistant Professor (Grade-II),Electrical Engineering,Electrostatics,11,5,2,0,2,18,['electrostatics'],electrostatics,Other,2,True
+1,Dr S J S Bedi,Professor,Humanities & Management,HR,15,2,1,3,0,18,['human resources'],human resources,Other,3,True
+2,Dr Sonia Chawla,Professor,Humanities & Management,Financal economics,46,7,6,4,0,59,['financial economics'],financial economics,Management & Humanities,4,True
+3,Dr Aditya Prakash,Associate Professor & Head,Humanities & Management,literature,10,0,0,0,0,10,['literature'],literature,Other,0,False
+4,Dr Jagwinder Singh,Associate Professor & Head,Humanities & Management,consumer behavaour,23,3,3,0,0,29,['consumer behaviour'],consumer behaviour,Other,0,False
+5,Dr Gaurav Kumar,Assistant Professor (Grade-I),Humanities & Management,Financal econimics,11,0,6,1,0,17,['financial economics'],financial economics,Management & Humanities,1,True
+6,Dr Gyan Prakash,Assistant Professor (Grade-I),Humanities & Management,HR,36,6,0,1,1,42,['human resources'],human resources,Other,2,True
+7,Dr Shyamkiran Kaur,Assistant Professor (Grade-I),Humanities & Management,literature,15,13,3,0,0,31,['literature'],literature,Other,0,False
+8,Dr Neeraj Gautam,Assistant Professor Grade-II,Humanities & Management,0,0,0,0,0,0,0,['other'],other,Other,0,False
+9,Dr Radhakrishna G S,Assistant Professor (Grade-II),Humanities & Management,Financial economics,6,3,0,1,0,9,['financial economics'],financial economics,Management & Humanities,1,True
+10,Dr Ravina Toppo,Assistant Professor Grade-II,Humanities & Management,0,0,0,0,0,0,0,['other'],other,Other,0,False
+11,Dr Vaibhav Pathak,Assistant Professor Grade-II,Humanities & Management,0,0,0,0,0,0,0,['other'],other,Other,0,False
+12,Dr Yaisna Rajkumari,Assistant Professor (Grade-II),Humanities & Management,literature,8,1,5,0,0,14,['literature'],literature,Other,0,False
+1,Dr Binod Kumar Kanaujia,"Director, NITJ",Electronics & Communication Engineering,Communication Systems,347,93,25,8,3,465,['communication systems'],communication systems,Networking & Communications,11,True
+2,Dr Arun K Khosla,Professor,Electronics & Communication Engineering,Human-Computer Interaction (HCI),45,31,25,11,2,101,"['human-computer interaction', 'human-computer interaction']",human-computer interaction,Other,13,True
+3,Dr B S Saini,Professor,Electronics & Communication Engineering,Signal processing,61,56,16,1,0,133,['signal processing'],signal processing,Signal Processing & Control,1,True
+4,Dr Mamta Khosla,Professor,Electronics & Communication Engineering,ML,56,35,11,3,4,102,['machine learning'],machine learning,AI & ML,7,True
+5,Dr Ashish Raman,Associate Professor & Head,Electronics & Communication Engineering,ML,84,33,15,6,10,132,['machine learning'],machine learning,AI & ML,16,True
+6,Dr Asutosh Kar,Associate Professor,Electronics & Communication Engineering,Signal processing,54,50,3,6,0,107,['signal processing'],signal processing,Signal Processing & Control,6,True
+7,Dr Balwinder Raj,Associate Professor,Electronics & Communication Engineering,Nanoelectronics,107,51,21,7,3,179,['nanoelectronics'],nanoelectronics,Electronics,10,True
+8,Dr Deepti Kakkar,Associate Professor,Electronics & Communication Engineering,ML,36,41,22,0,1,99,['machine learning'],machine learning,AI & ML,1,True
+9,Dr Indu Saini,Associate Professor,Electronics & Communication Engineering,ML,38,34,8,6,0,80,['machine learning'],machine learning,AI & ML,6,True
+10,Dr Neetu Sood,Associate Professor,Electronics & Communication Engineering,Signal processing,31,43,9,3,1,83,['signal processing'],signal processing,Signal Processing & Control,4,True
+11,Dr Ramesh K Sunkaria,Associate Professor,Electronics & Communication Engineering,Signal processing,83,73,6,14,4,162,['signal processing'],signal processing,Signal Processing & Control,18,True
+12,Dr Aijaz Mehdi Zaidi,Assistant Professor (Grade-I),Electronics & Communication Engineering,ML,19,8,1,0,1,28,['machine learning'],machine learning,AI & ML,1,True
+13,Dr. Manjeet Singh,Assistant Professor (Grade-I),Electronics & Communication Engineering,iot,18,13,3,0,1,34,['internet of things'],internet of things,Networking & Communications,1,True
+14,Dr Nitesh Kashyap,Assistant Professor (Grade-I),Electronics & Communication Engineering,Antenna design,17,16,1,0,2,34,['antenna design'],antenna design,Other,2,True
+15,Dr Pawan Kumar Verma,Assistant Professor (Grade-I),Electronics & Communication Engineering,iot,15,17,4,1,1,36,['internet of things'],internet of things,Networking & Communications,2,True
+16,Dr Sateesh Kumar Awasthi,Assistant Professor (Grade-I),Electronics & Communication Engineering,Signal Processing,10,18,3,2,1,31,['signal processing'],signal processing,Signal Processing & Control,3,True
+17,Dr Sukwinder Singh,Assistant Professor (Grade-I),Electronics & Communication Engineering,iot,12,17,1,1,3,30,['internet of things'],internet of things,Networking & Communications,4,True
+18,Dr Tarun Chaudhary,Assistant Professor (Grade-I),Electronics & Communication Engineering,Nanoelectronics,20,21,14,0,1,55,['nanoelectronics'],nanoelectronics,Electronics,1,True
+19,Dr Amina Girdher,Assistant Professor Grade-II,Electronics & Communication Engineering,Spectrum,7,5,0,0,0,12,['communication systems'],communication systems,Networking & Communications,0,False
+20,Dr Bodile Roshan Mukindrao,Assistant Professor (Grade-II),Electronics & Communication Engineering,Signal processing,6,8,2,0,1,16,['signal processing'],signal processing,Signal Processing & Control,1,True
+21,Dr. Kundan Kumar,Assistant Professor (Grade-II),Electronics & Communication Engineering,Antenna design,13,9,0,0,3,22,['antenna design'],antenna design,Other,3,True
+22,Dr Pheiroijam Pooja,Assistant Professor Grade-II,Electronics & Communication Engineering,Nanoelectronics,14,1,2,0,0,17,['nanoelectronics'],nanoelectronics,Electronics,0,False
+23,Dr Robin Kalyan,Assistant Professor Grade-II,Electronics & Communication Engineering,Amplifier,5,8,0,0,0,13,['analog electronics'],analog electronics,Electronics,0,False
+24,Dr Rohit Singh,Assistant Professor (Grade-II),Electronics & Communication Engineering,Communication Systems,25,6,1,0,2,32,['communication systems'],communication systems,Networking & Communications,2,True
+25,Dr Sachchidanand,Assistant Professor Grade-II,Electronics & Communication Engineering,Semi conductors,0,0,0,0,0,0,['semiconductors'],semiconductors,Electronics,0,False
+26,Dr Sumon Modak,Assistant Professor Grade-II,Electronics & Communication Engineering,Antenna design,17,8,0,0,0,25,['antenna design'],antenna design,Other,0,False
+27,Dr. V Narasimha Nayak,Assistant Professor Grade-II,Electronics & Communication Engineering,Communication Systems,8,8,0,0,0,16,['communication systems'],communication systems,Networking & Communications,0,False
+1,Dr Asim Kumar Jana,Professor & Head,BioTechnology,Bioprocess,99,93,15,3,0,207,['bioprocess engineering'],bioprocess engineering,Biotech & Life Sciences,3,True
+2,Dr Nitai Basak,Associate Professor,BioTechnology,Bioprocess,32,44,5,1,1,81,['bioprocess engineering'],bioprocess engineering,Biotech & Life Sciences,2,True
+3,Dr Anee Mohanty,Assistant Professor (Grade-I),BioTechnology,Microbiology,25,0,12,1,2,37,['microbiology'],microbiology,Biotech & Life Sciences,3,True
+4,Dr Indu Chauhan,Assistant Professor (Grade-I),BioTechnology,Bioprocess,16,13,4,1,2,33,['bioprocess engineering'],bioprocess engineering,Biotech & Life Sciences,3,True
+5,Dr Mahesh Kumar Sah,Assistant Professor (Grade-I),BioTechnology,Biomaterials,32,37,10,2,1,79,['biomaterials'],biomaterials,Biotech & Life Sciences,3,True
+6,Dr Nikhil G N,Assistant Professor (Grade-I),BioTechnology,Bioprocess,31,0,7,1,4,38,['bioprocess engineering'],bioprocess engineering,Biotech & Life Sciences,5,True
+7,Dr Prangya Ranjan Rout,Assistant Professor (Grade-I),BioTechnology,Microbiology,45,29,31,1,3,105,['microbiology'],microbiology,Biotech & Life Sciences,4,True
+8,Dr. Sumer Singh Meena,Assistant Professor (Grade-I),BioTechnology,Microbiology,20,23,13,1,3,56,['microbiology'],microbiology,Biotech & Life Sciences,4,True
+9,Dr Chandi Charan Patra,Assistant Professor (Grade-II),BioTechnology,Waste water managenment,16,0,0,0,0,16,['water and wastewater'],water and wastewater,Civil & Environmental,0,False
+10,Dr Manoj Kumar,Assistant Professor (Grade-II),BioTechnology,Waste water managenment,17,1,4,0,0,22,['water and wastewater'],water and wastewater,Civil & Environmental,0,False
+11,Dr Pritam Kumar Dikshit,Assistant Professor (Grade-II),BioTechnology,Waste water managenment,44,0,8,0,0,52,['water and wastewater'],water and wastewater,Civil & Environmental,0,False
+1,Dr Balbir Singh Kaith,Professor (HAG),Chemistry,Nanotechnology,291,12,19,2,5,322,['nanotechnology'],nanotechnology,Chemical & Materials,7,True
+2,Dr N C Kothiyal,Professor (HAG),Chemistry,Nanotechnology,63,5,7,12,0,75,['nanotechnology'],nanotechnology,Chemical & Materials,12,True
+3,Dr Jaspreet Kaur Rajput,Associate Professor,Chemistry,Nanotechnology,62,6,10,9,2,78,['nanotechnology'],nanotechnology,Chemical & Materials,11,True
+4,Dr Rajeev Jindal,Associate Professor,Chemistry,Nanotechnology,97,89,6,1,0,192,['nanotechnology'],nanotechnology,Chemical & Materials,1,True
+5,Dr Rakesh Kumar,Associate Professor,Chemistry,Organic synthesis,31,7,1,3,1,39,['organic chemistry'],organic chemistry,Chemical & Materials,4,True
+6,Dr Sadhika Khullar,Associate Professor,Chemistry,Organic synthesis,55,2,5,2,1,62,['organic chemistry'],organic chemistry,Chemical & Materials,3,True
+7,Dr Sangeeta Obrai,Associate Professor,Chemistry,Inorganic synthesis,39,1,2,0,0,42,['inorganic chemistry'],inorganic chemistry,Chemical & Materials,0,False
+8,Dr Uma Shanker,Associate Professor & Head,Chemistry,Nanotechnology,119,15,36,3,2,170,['nanotechnology'],nanotechnology,Chemical & Materials,5,True
+9,Dr Vickram Jeet Singh,Associate Professor,Chemistry,Ionic Liquid,51,0,5,1,1,56,['chemical engineering'],chemical engineering,Chemical & Materials,2,True
+10,Dr Vimal Kumar,Associate Professor,Chemistry,Inorganic synthesis,48,4,1,1,0,53,['inorganic chemistry'],inorganic chemistry,Chemical & Materials,1,True
+11,Dr Manisha Devi,Assistant Professor Grade-II,Chemistry,Ionic Liquid,25,0,3,1,0,28,['chemical engineering'],chemical engineering,Chemical & Materials,1,True
+12,Dr Poonam Rani,Assistant Professor Grade-II,Chemistry,Ionic Liquid,20,0,0,0,0,20,['chemical engineering'],chemical engineering,Chemical & Materials,0,False
+13,Dr Sanjeeb Sutradhar,Assistant Professor Grade-II,Chemistry,Organic synthesis,9,0,1,0,0,10,['organic chemistry'],organic chemistry,Chemical & Materials,0,False
+1,Dr Mithilesh Kumar Jha,Professor (HAG),Chemical Engineering,Waste Water Treatment,102,121,7,19,0,230,['water and wastewater'],water and wastewater,Civil & Environmental,19,True
+2,Dr Ajay Bansal,Professor,Chemical Engineering,Waste Water Treatment,73,54,18,6,1,145,['water and wastewater'],water and wastewater,Civil & Environmental,7,True
+3,Dr Renu Gupta,Professor,Chemical Engineering,Waste Water Treatment,30,66,8,8,0,104,['water and wastewater'],water and wastewater,Civil & Environmental,8,True
+4,Dr Sangeeta Garg,Professor,Chemical Engineering,Waste Water Treatment,42,59,13,9,1,114,['water and wastewater'],water and wastewater,Civil & Environmental,10,True
+5,Dr Shailendra Bajpai,Professor,Chemical Engineering,Waste Water Treatment,23,39,5,1,0,67,['water and wastewater'],water and wastewater,Civil & Environmental,1,True
+6,Dr Jatinder Kumar Ratan,Associate Professor,Chemical Engineering,Computational Fluid Dynamics,50,71,6,5,9,127,['computational fluid dynamics'],computational fluid dynamics,Other,14,True
+7,Dr. N. K. Srivastava,Associate Professor,Chemical Engineering,Renewable Energy,22,52,5,0,0,79,['renewable energy'],renewable energy,Power & Energy,0,False
+8,Dr Poonam Gera,Associate Professor,Chemical Engineering,Renewable Energy,22,62,8,3,1,92,['renewable energy'],renewable energy,Power & Energy,4,True
+9,Dr Raj Kumar Arya,Associate Professor,Chemical Engineering,Hydrogen Energy,95,24,47,3,1,166,['hydrogen energy'],hydrogen energy,Other,4,True
+10,Dr Amit Dhruv Saran,Assistant Professor (Grade-I),Chemical Engineering,Nanotechnology,15,23,2,0,1,40,['nanotechnology'],nanotechnology,Chemical & Materials,1,True
+11,Dr Anjireddy Bhavanam,Assistant Professor (Grade-I),Chemical Engineering,Waste Water Treatment,15,46,10,5,2,71,['water and wastewater'],water and wastewater,Civil & Environmental,7,True
+12,Dr Anurag Kumar Tiwari,Assistant Professor (Grade-I),Chemical Engineering,Computational Fluid Dynamics,35,17,7,0,0,59,['computational fluid dynamics'],computational fluid dynamics,Other,0,False
+13,Dr D Giribabu,Assistant Professor (Grade-I),Chemical Engineering,Waste Water Treatment,9,1,2,1,1,12,['water and wastewater'],water and wastewater,Civil & Environmental,2,True
+14,Dr Deepak Sahu,Assistant Professor (Grade-I),Chemical Engineering,Chemical Process Safety,14,20,8,2,2,42,['chemical engineering'],chemical engineering,Chemical & Materials,4,True
+15,Dr Neetu Divya,Assistant Professor (Grade-I),Chemical Engineering,Waste Water Treatment,15,42,5,1,0,62,['water and wastewater'],water and wastewater,Civil & Environmental,1,True
+16,Dr. Nitin Naresh Pandhare,Assistant Professor (Grade-I),Chemical Engineering,Environmental Engineering,9,9,4,1,1,22,['environmental engineering'],environmental engineering,Other,2,True
+17,Dr Shashikant Yadav,Assistant Professor (Grade-I),Chemical Engineering,Environmental Engineering,16,22,8,0,5,46,['environmental engineering'],environmental engineering,Other,5,True
+18,Dr Umashankar Erigi,Assistant Professor (Grade-II),Chemical Engineering,Nanotechnology,3,5,0,0,0,8,['nanotechnology'],nanotechnology,Chemical & Materials,0,False
+1,Dr Dinesh Kumar Shukla,Professor,Mechanical Engineering,Welding Technology,43,26,0,0,0,69,['welding'],welding,Mechanical & Manufacturing,0,False
+2,Dr Joseph Anand Vaz,Professor,Mechanical Engineering,Mechatronics,18,10,9,4,0,37,['mechatronics'],mechatronics,Mechanical & Mechatronics,4,True
+3,Dr Pramod Kumar,Professor,Mechanical Engineering,Renewable Energy,38,13,7,4,0,58,['renewable energy'],renewable energy,Power & Energy,4,True
+4,Dr Raman Bedi,Professor,Mechanical Engineering,Structure Property correlation,63,30,7,0,2,100,['materials science'],materials science,Chemical & Materials,2,True
+5,Dr Srinivas Tangellapalli,Professor & Head,Mechanical Engineering,Renewable Energy,77,79,18,3,1,174,['renewable energy'],renewable energy,Power & Energy,4,True
+6,Dr Subhash Chander,Professor,Mechanical Engineering,Renewable Energy,57,16,1,1,1,74,['renewable energy'],renewable energy,Power & Energy,2,True
+7,Mr. Ajay Trehan,Associate Professor,Mechanical Engineering,Renewable Energy,1,3,2,1,0,6,['renewable energy'],renewable energy,Power & Energy,1,True
+8,Dr Dushyant Singh,Associate Professor,Mechanical Engineering,Turbulent Flows,32,19,8,1,3,59,['turbulent flows'],turbulent flows,Other,4,True
+9,Dr R S Bharj,Associate Professor,Mechanical Engineering,Renewable Energy,60,4,3,0,0,67,['renewable energy'],renewable energy,Power & Energy,0,False
+10,Dr Rajeev Kukreja,Associate Professor,Mechanical Engineering,Renewable Energy,28,23,4,0,2,55,['renewable energy'],renewable energy,Power & Energy,2,True
+11,Dr S K Tiwari,Associate Professor,Mechanical Engineering,Welding Technology,34,7,3,0,0,44,['welding'],welding,Mechanical & Manufacturing,0,False
+12,Dr Sarbjot Singh Sandhu,Associate Professor,Mechanical Engineering,Renewable Energy,39,15,7,2,0,61,['renewable energy'],renewable energy,Power & Energy,2,True
+13,Dr Ashok Kumar Bagha,Assistant Professor (Grade-I),Mechanical Engineering,Vibration Engineering,38,37,4,2,1,79,['vibration engineering'],vibration engineering,Other,3,True
+14,Dr Dwesh K. Singh,Assistant Professor (Grade-I),Mechanical Engineering,Computational Fluid Dynamics,30,11,3,1,1,44,['computational fluid dynamics'],computational fluid dynamics,Other,2,True
+15,Dr Harpreet Singh,Assistant Professor (Grade-I),Mechanical Engineering,Nanotechnology,22,11,6,3,2,39,['nanotechnology'],nanotechnology,Chemical & Materials,5,True
+16,Dr Manoj Kumar,Assistant Professor (Grade-I),Mechanical Engineering,Nanotechnology,46,23,9,0,0,78,['nanotechnology'],nanotechnology,Chemical & Materials,0,False
+17,Dr Nitin Sharma,Assistant Professor (Grade-I),Mechanical Engineering,Surface Textures,20,20,3,1,1,43,['surface engineering'],surface engineering,Other,2,True
+18,Dr Parnika Shrivastava,Assistant Professor (Grade-I),Mechanical Engineering,Product Design and Innovation,15,4,11,0,1,30,['product design'],product design,Other,1,True
+19,Dr Rajan Kumar,Assistant Professor (Grade-I),Mechanical Engineering,Nanotechnology,57,6,9,0,2,72,['nanotechnology'],nanotechnology,Chemical & Materials,2,True
+20,Dr Sanjay,Assistant Professor (Grade-I),Mechanical Engineering,Renewable Energy,38,12,5,2,1,55,['renewable energy'],renewable energy,Power & Energy,3,True
+21,Dr Satyender Singh,Assistant Professor (Grade-I),Mechanical Engineering,Fluid Machinery,43,7,4,3,3,54,['fluid machinery'],fluid machinery,Other,6,True
+22,Dr Saurabh Kango,Assistant Professor (Grade-I),Mechanical Engineering,Non-Newtonian Rheologies of lubricants,34,28,7,1,2,69,['materials science'],materials science,Chemical & Materials,3,True
+23,Dr Sumit Sharma,Assistant Professor (Grade-I),Mechanical Engineering,Nanotechnology,68,21,18,2,0,107,['nanotechnology'],nanotechnology,Chemical & Materials,2,True
+24,Dr Ravi Kant Ravi,Assistant Professor (Grade-II),Mechanical Engineering,Solar Thermal Systems,14,6,4,0,3,24,['solar thermal systems'],solar thermal systems,Other,3,True
+25,Dr Ranchan Chauhan,Assistant Professor,Mechanical Engineering,Thermal Engineering,56,9,1,1,0,66,['thermal engineering'],thermal engineering,Other,1,True
+1,Dr Arvinder Singh,Professor (HAG),Physics,Laser-Plasma accelerators,93,8,0,1,1,101,['laser-plasma accelerators'],laser-plasma accelerators,Physics,2,True
+2,Dr H M Mittal,Professor & Head,Physics,Theoretical Nuclear Physics,51,117,0,1,0,168,['nuclear physics'],nuclear physics,Physics,1,True
+3,Dr Rohit Mehra,Professor,Physics,Nanotechnology,215,8,8,6,1,231,['nanotechnology'],nanotechnology,Chemical & Materials,7,True
+4,Dr Abhinav Pratap Singh,Associate Professor,Physics,Condensed matter physics,42,0,1,2,1,43,['condensed matter physics'],condensed matter physics,Physics,3,True
+5,Dr Arvind Kumar,Associate Professor,Physics,Theoretical High Energy Physics,50,50,0,2,1,100,['high energy physics'],high energy physics,Physics,3,True
+6,Dr Harleen Dahiya,Associate Professor,Physics,Theoretical High Energy Physics,64,0,2,7,2,66,['high energy physics'],high energy physics,Physics,9,True
+7,Dr Jyoti Bharj,Associate Professor,Physics,Nanotechnology,10,4,1,0,0,15,['nanotechnology'],nanotechnology,Chemical & Materials,0,False
+8,Dr Kiran Singh,Associate Professor,Physics,Multiferroics,81,39,0,3,3,120,['multiferroics'],multiferroics,Other,6,True
+9,Dr Praveen Malik,Associate Professor,Physics,Nanotechnology,86,18,2,7,2,106,['nanotechnology'],nanotechnology,Chemical & Materials,9,True
+10,Dr Suneel Dutt,Associate Professor,Physics,Detector Development,8,14,0,2,0,22,['detector development'],detector development,Physics,2,True
+11,Dr Vinod Ashokan,Associate Professor,Physics,Nanotechnology,34,3,0,3,1,37,['nanotechnology'],nanotechnology,Chemical & Materials,4,True
+12,Dr Shishram Rebari,Assistant Professor Grade-II,Physics,Condensed Matter Physics,6,1,1,0,0,8,['condensed matter physics'],condensed matter physics,Physics,0,False
+13,Dr Shubhchintak,Assistant Professor Grade-II,Physics,Nuclear astrophysics,28,0,0,0,0,28,['nuclear astrophysics'],nuclear astrophysics,Other,0,False
+1,Dr J N Chakraborty,Professor (HAG),Textile Engineering,Waste Water Management,171,23,8,1,1,202,['water and wastewater'],water and wastewater,Civil & Environmental,2,True
+2,Dr S K Sinha,Professor (HAG),Textile Engineering,Yarn Manufacturing,62,27,4,2,0,93,['textile manufacturing'],textile manufacturing,Textiles,2,True
+3,Dr A Chatterjee,Professor,Textile Engineering,Fibre Science,28,18,9,1,0,55,['textile manufacturing'],textile manufacturing,Textiles,1,True
+4,Dr Arunangshu Mukhopadhyay,Professor,Textile Engineering,Fibre Science,176,55,13,4,8,244,['textile manufacturing'],textile manufacturing,Textiles,12,True
+5,Dr A K Choudhary,Professor,Textile Engineering,Yarn Manufacturing,69,55,5,8,3,129,['textile manufacturing'],textile manufacturing,Textiles,11,True
+6,Dr Monica Sikka,Professor & Head,Textile Engineering,Healthcare Textiles,46,48,13,2,0,107,['textile manufacturing'],textile manufacturing,Textiles,2,True
+7,Dr Vinay Midha,Professor,Textile Engineering,Healthcare Textiles,90,46,18,2,5,154,['textile manufacturing'],textile manufacturing,Textiles,7,True
+8,Dr Lalit Jajpura,Associate Professor,Textile Engineering,Textile Chemical Preprocessing,51,21,11,3,4,83,['textile manufacturing'],textile manufacturing,Textiles,7,True
+9,Dr M D Roy,Associate Professor,Textile Engineering,Technical Textile,18,19,1,0,0,38,['textile manufacturing'],textile manufacturing,Textiles,0,False
+10,Dr N Bhowmick,Associate Professor,Textile Engineering,Water Science,18,6,0,0,0,24,['water and wastewater'],water and wastewater,Civil & Environmental,0,False
+11,Dr Palaniswamy N. K.,Associate Professor,Textile Engineering,Technical Textile,24,6,1,1,3,31,['textile manufacturing'],textile manufacturing,Textiles,4,True
+12,Dr Anilkumar Lalchand Yadav,Assistant Professor (Grade-II),Textile Engineering,Textile Chemical Preprocessing,16,11,4,3,1,31,['textile manufacturing'],textile manufacturing,Textiles,4,True
+13,Dr K V P Singh,Assistant Professor,Textile Engineering,Garment Design,15,21,12,0,0,48,['garment design'],garment design,Other,0,False
+14,Dr Mukesh Bajya,Assistant Professor (Grade-II),Textile Engineering,Technical Textile,22,8,3,0,5,33,['textile manufacturing'],textile manufacturing,Textiles,5,True
+15,Dr. Priyanka Gupta,Assistant Professor (Grade-II),Textile Engineering,Yarn Manufacturing,10,10,3,1,2,23,['textile manufacturing'],textile manufacturing,Textiles,3,True
+16,Dr Zunjarrao Bapuso Kamble,Assistant Professor (Grade-II),Textile Engineering,Textile Waste Recycling,22,7,3,0,5,32,['textile manufacturing'],textile manufacturing,Textiles,5,True
+1,Dr Arvind K Agnihotri,Professor (HAG) & Head,Civil Engineering,Geotechnical Engineering,76,0,9,2,0,85,['geotechnical engineering'],geotechnical engineering,Civil & Environmental,2,True
+2,Dr S P SINGH,Professor (HAG),Civil Engineering,Structural Engineering,1,4,5,2,0,10,['structural engineering'],structural engineering,Civil & Environmental,2,True
+3,Dr Hemant S. Chore,Associate Professor,Civil Engineering,Soil-Structure Interaction,84,230,4,9,1,318,['soil-structure interaction'],soil-structure interaction,Other,10,True
+4,Dr Davinder Singh,Assistant Professor (Grade-I),Civil Engineering,Water & Waste Water Treatment,19,34,17,1,0,70,"['water and wastewater', 'water and wastewater']",water and wastewater,Civil & Environmental,1,True
+5,Dr Kanish Kapoor,Assistant Professor (Grade-I),Civil Engineering,Durability evaluation of different concretes,52,32,11,1,4,95,['concrete technology'],concrete technology,Civil & Environmental,5,True
+6,Dr Mahesh Patel,Assistant Professor (Grade-I),Civil Engineering,Turbulent fluvial flows,29,41,7,1,6,77,['environmental fluid dynamics'],environmental fluid dynamics,Other,7,True
+7,Dr Navdeep Singh,Assistant Professor (Grade-I),Civil Engineering,Durability behavior of concrete composites,29,41,14,2,2,84,['concrete technology'],concrete technology,Civil & Environmental,4,True
+8,Dr Neelam Rani,Assistant Professor (Grade-I),Civil Engineering,Structural Engineering,6,17,3,1,1,26,['structural engineering'],structural engineering,Civil & Environmental,2,True
+9,Dr Rupali Satavalekar,Assistant Professor (Grade-I),Civil Engineering,Geotechnical Engineering,33,46,7,0,0,86,['geotechnical engineering'],geotechnical engineering,Civil & Environmental,0,False
+10,Dr Senthil Kasilingam,Assistant Professor (Grade-I),Civil Engineering,Concrete Structures,59,88,10,4,0,157,['concrete technology'],concrete technology,Civil & Environmental,4,True
+11,Dr. Shailja Bawa,Assistant Professor (Grade-I),Civil Engineering,Transportation Engineering,19,47,13,0,0,79,['transportation engineering'],transportation engineering,Civil & Environmental,0,False
+12,Dr Shashi Kant Sharma,Assistant Professor (Grade-I),Civil Engineering,Geopolymer concrete,31,31,2,1,0,64,['concrete technology'],concrete technology,Civil & Environmental,1,True
+13,Dr Abhishek Sharma,Assistant Professor (Grade-II),Civil Engineering,Bridge engineering,4,6,0,1,0,10,['structural engineering'],structural engineering,Civil & Environmental,1,True
+14,Dr Arvind Kumar Bairwa,Assistant Professor Grade-II,Civil Engineering,Environmental Fluid Dynamics,3,3,0,0,0,6,['environmental fluid dynamics'],environmental fluid dynamics,Other,0,False
+15,Dr Arya Anuj Jee,Assistant Professor (Grade-II),Civil Engineering,Durability study of concrete under aggressive environment,5,5,5,0,0,15,['concrete technology'],concrete technology,Civil & Environmental,0,False
+16,Dr Kumbamutlang War,Assistant Professor Grade-II,Civil Engineering,Geotechnical Engineering,0,0,0,0,0,0,['geotechnical engineering'],geotechnical engineering,Civil & Environmental,0,False
+17,Dr Koteswaraarao Jadda,Assistant Professor (Grade-II),Civil Engineering,Geotechnical and Geoenvironmental Engineering,12,5,4,0,0,21,['geotechnical engineering'],geotechnical engineering,Civil & Environmental,0,False
+18,Dr Phibe Khalkho,Assistant Professor (Grade-II),Civil Engineering,Experimental Rock Mechanics,2,7,2,0,0,11,['rock mechanics'],rock mechanics,Civil & Environmental,0,False
+19,Dr Roop Kishor,Assistant Professor (Grade-II),Civil Engineering,Highway Materials,6,12,0,0,0,18,['highway materials'],highway materials,Other,0,False
+20,Dr Sabyasachi Swain,Assistant Professor Grade-II,Civil Engineering,Not Provided,0,0,0,0,0,0,['other'],other,Other,0,False
+21,Dr Vinil Kumar Gade,Assistant Professor (Grade-II),Civil Engineering,Earth Retaining Structures,7,12,4,0,0,23,['geotechnical engineering'],geotechnical engineering,Civil & Environmental,0,False
+1,Dr Arvind Bhardwaj,Professor (HAG),Industrial Production and Engineering,"Life Cycle Assessment,Operations Management",70,68,17,1,0,155,"['life cycle assessment', 'operations management']",life cycle assessment,Sustainability,1,True
+2,Dr Rajiv Kumar Garg,Professor (HAG,Industrial Production and Engineering,"Life Cycle Assessment, Traditional Machining",93,28,7,0,1,128,"['life cycle assessment', 'manufacturing']",life cycle assessment,Sustainability,1,True
+3,Dr Anish Kumar Sachdeva,Professor,Industrial Production and Engineering,Supply Chain Management,119,62,23,0,3,204,['supply chain management'],supply chain management,Management & Humanities,3,True
+4,Dr Vishal Santosh Sharma,Professor,Industrial Production and Engineering,"3D printing, Machining,",74,5,8,0,0,87,"['additive manufacturing', 'manufacturing']",additive manufacturing,Mechanical & Manufacturing,0,False
+5,Dr Ajay Gupta,Associate Professor,Industrial Production and Engineering,Management Marketing,56,34,7,0,1,97,['management and marketing'],management and marketing,Management & Humanities,1,True
+6,Dr Lakhwinder Pal Singh Jarangal,Associate Professor,Industrial Production and Engineering,Supply Chain Management,60,49,64,2,0,173,['supply chain management'],supply chain management,Management & Humanities,2,True
+7,Dr Rajeev Trehan,Associate Professor,Industrial Production and Engineering,Productivity Improvement and Advanced Manufacturing,37,11,3,2,1,51,['operations & manufacturing'],operations & manufacturing,Other,3,True
+8,Dr. Rakesh K. Sharma,Associate Professor & Head,Industrial Production and Engineering,"Engineering Management, Engineering Economics",27,19,4,0,0,50,"['engineering management', 'engineering economics']",engineering management,Management & Humanities,0,False
+9,Prof. R K Bansal,Associate Professor,Industrial Production and Engineering,Operations Management,0,3,1,0,0,4,['operations management'],operations management,Management & Humanities,0,False
+10,Dr Shailendra Singh Bhadauria,Associate Professor,Industrial Production and Engineering,"Multiaxial Fatigue life prediction of weldments, Stress Corrosion Cracking",33,21,8,0,0,62,"['materials fatigue & failure', 'materials corrosion']",materials fatigue & failure,Other,0,False
+11,Dr Aviral Mishra,Assistant Professor (Grade-I),Industrial Production and Engineering,"Additive manufacturing, Manufacturing of composites",14,7,5,0,1,26,"['additive manufacturing', 'composite manufacturing']",additive manufacturing,Mechanical & Manufacturing,1,True
+12,Dr. Narendra Kumar,Assistant Professor (Grade-I),Industrial Production and Engineering,3D Printing,28,13,15,1,4,56,['additive manufacturing'],additive manufacturing,Mechanical & Manufacturing,5,True
+13,Dr Rajeev Verma,Assistant Professor (Grade-I),Industrial Production and Engineering,"Surface Engineering, Tribology",51,30,10,2,1,91,"['surface engineering', 'tribology']",surface engineering,Other,3,True
+14,Dr Varun Sharma,Assistant Professor (Grade-I),Industrial Production and Engineering,"Material Science, Tribology,welding",42,22,8,1,0,72,"['materials science', 'tribology', 'welding']",materials science,Chemical & Materials,1,True
+15,Dr Bikash Kumar,Assistant Professor (Grade-II),Industrial Production and Engineering,Welding,16,14,4,0,3,34,['welding'],welding,Mechanical & Manufacturing,3,True
+16,Dr Gurraj Singh,Assistant Professor (Grade-II),Industrial Production and Engineering,"Machining, Life Cycle Assessment,",35,9,1,0,2,45,"['manufacturing', 'life cycle assessment']",manufacturing,Mechanical & Manufacturing,2,True
+17,Dr Vikash Murmu,Assistant Professor Grade-II,Industrial Production and Engineering,Supply chain management,0,0,0,0,0,0,['supply chain management'],supply chain management,Management & Humanities,0,False
+1,Dr Ajay K Sharma,Professor (on lien),Computer Science and Engineering,Wireless Communication Systems,209,34,11,5,3,254,['communication systems'],communication systems,Networking & Communications,8,True
+2,Dr A L Sangal,Professor (HAG) & Head,Computer Science and Engineering,"ML,Computer Networks",29,19,3,0,0,51,"['machine learning', 'computer networks']",machine learning,AI & ML,0,False
+3,Dr Harsh K Verma,Professor,Computer Science and Engineering,Computer Networks,64,44,4,2,0,112,['computer networks'],computer networks,Networking & Communications,2,True
+4,Dr Renu Dhir,Professor,Computer Science and Engineering,AI,30,11,5,1,1,46,['artificial intelligence'],artificial intelligence,AI & ML,2,True
+5,Mr D K Gupta,Associate Professor,Computer Science and Engineering,"Data Analytics, Operating System Design",10,15,3,0,0,28,"['data analytics', 'operating system design']",data analytics,AI & ML,0,False
+6,Dr Geeta Sikka,Associate Professor (on lien),Computer Science and Engineering,Natural Language Processing,54,22,8,2,2,84,['natural language processing'],natural language processing,AI & ML,4,True
+7,Dr Rajneesh Rani,Associate Professor,Computer Science and Engineering,Digital Image Processing,72,39,11,2,0,122,['digital image processing'],digital image processing,AI & ML,2,True
+8,Dr Amritpal Singh,Assistant Professor (Grade-I),Computer Science and Engineering,Probabilistic Data Structures,23,6,2,1,0,31,['data structures'],data structures,Computer Systems,1,True
+9,Dr Aruna Malik,Assistant Professor (Grade-I),Computer Science and Engineering,Virtual private network (VPN),47,18,3,0,0,68,"['network security', 'network security']",network security,Networking & Communications,0,False
+10,Dr K P Sharma,Assistant Professor (Grade-I),Computer Science and Engineering,AI,28,23,10,1,3,61,['artificial intelligence'],artificial intelligence,AI & ML,4,True
+11,Dr Kunwar Pal,Assistant Professor (Grade-I),Computer Science and Engineering,Computer Network,12,6,1,0,1,19,['computer networks'],computer networks,Networking & Communications,1,True
+12,Dr Lalatendu Behera,Assistant Professor (Grade-I),Computer Science and Engineering,Scheduling theory,3,5,0,0,0,8,['scheduling theory'],scheduling theory,Computer Systems,0,False
+13,Dr Nagendra Pratap Singh,Assistant Professor (Grade-I),Computer Science and Engineering,"ML,Computer Networks",29,22,8,0,1,59,"['machine learning', 'computer networks']",machine learning,AI & ML,1,True
+14,Dr Samayveer Singh,Assistant Professor (Grade-I),Computer Science and Engineering,Wireless Sensor Networks,71,25,12,1,0,108,['wireless sensor networks'],wireless sensor networks,Other,1,True
+15,Dr Urvashi,Assistant Professor (Grade-I),Computer Science and Engineering,AI,28,21,6,0,2,55,['artificial intelligence'],artificial intelligence,AI & ML,2,True
+16,Dr Armaan Garg,Assistant Professor Grade-II,Computer Science and Engineering,0,0,0,0,0,0,0,['other'],other,Other,0,False
+17,Dr Avtar Singh,Assistant Professor (Grade-II),Computer Science and Engineering,Cloud Computing,16,19,6,0,0,41,['cloud computing'],cloud computing,Networking & Communications,0,False
+18,Dr Banalaxmi Brahma,Assistant Professor (Grade-II),Computer Science and Engineering,DL,5,4,0,0,0,9,['deep learning'],deep learning,AI & ML,0,False
+19,Dr Gopendra,Assistant Professor Grade-II,Computer Science and Engineering,0,0,0,0,0,0,0,['other'],other,Other,0,False
+20,Dr Himanshu Verma,Assistant Professor Grade-II,Computer Science and Engineering,Wireless Personal Area,5,11,4,0,0,20,['wireless networks'],wireless networks,Other,0,False
+21,Dr Jagdeep Kaur,Assistant Professor (Grade-II),Computer Science and Engineering,ML,8,9,5,1,1,22,['machine learning'],machine learning,AI & ML,2,True
+22,Dr Madhurima Buragohain,Assistant Professor (Grade-II),Computer Science and Engineering,Computer Networks,2,5,2,0,0,9,['computer networks'],computer networks,Networking & Communications,0,False
+23,Dr Naina Yadav,Assistant Professor (Grade-II),Computer Science and Engineering,Natural Language Processing,5,6,1,0,0,12,['natural language processing'],natural language processing,AI & ML,0,False
+24,Dr Muktesh Gupta,Assistant Professor Grade-II,Computer Science and Engineering,Time Series Diagnostics,8,11,0,0,0,19,['time series analysis'],time series analysis,AI & ML,0,False
+25,Dr Prashant Kumar,Assistant Professor (Grade-II),Computer Science and Engineering,ML,10,19,5,0,1,34,['machine learning'],machine learning,AI & ML,1,True
+26,Dr Pranjal,Assistant Professor Grade-II,Computer Science and Engineering,0,0,0,0,0,0,0,['other'],other,Other,0,False
+27,Dr Prashant Shukla,Assistant Professor Grade-II,Computer Science and Engineering,Wireless Sensor Network,6,6,0,0,0,12,['wireless sensor networks'],wireless sensor networks,Other,0,False
+28,Mr Rahul Aggarwal,Assistant Professor,Computer Science and Engineering,ML,1,1,0,0,0,2,['machine learning'],machine learning,AI & ML,0,False
+29,Dr Shefali Arora Chouhan,Assistant Professor (Grade-II),Computer Science and Engineering,Data Mining,11,8,4,0,0,23,['data mining'],data mining,AI & ML,0,False
+30,Dr Shveta Mahajan,Assistant Professor (Grade-II),Computer Science and Engineering,ML,3,19,1,1,2,23,['machine learning'],machine learning,AI & ML,3,True
+31,Dr Somesula Manoj Kumar,Assistant Professor (Grade-II),Computer Science and Engineering,wireless networks,14,2,0,0,0,16,['wireless networks'],wireless networks,Other,0,False
+32,Dr Sumit Kumar,Assistant Professor (Grade-II),Computer Science and Engineering,Cloud Computing,7,4,0,0,0,11,['cloud computing'],cloud computing,Networking & Communications,0,False
+33,Dr Swarnima Singh Gautam,Assistant Professor (Grade-II),Computer Science and Engineering,Data Mining,2,2,0,0,0,4,['data mining'],data mining,AI & ML,0,False
+1,Dr Vijay Kumar,Associate Professor & Head,Information Technology,Deep Learning,131,13,24,4,3,168,['deep learning'],deep learning,AI & ML,7,True
+2,Dr Kusum Bharti,Assistant Professor (Grade-I),Information Technology,Machine Learning,18,11,2,1,1,31,['machine learning'],machine learning,AI & ML,2,True
+3,Dr Mohit Kumar,Assistant Professor (Grade-I),Information Technology,AI,57,12,4,0,2,73,['artificial intelligence'],artificial intelligence,AI & ML,2,True
+4,Dr Nisha Chaurasia,Assistant Professor (Grade-I),Information Technology,AI,19,18,8,0,1,45,['artificial intelligence'],artificial intelligence,AI & ML,1,True
+5,Dr Ranjeet Kumar Rout,Assistant Professor (Grade-I),Information Technology,Deep Learning,59,21,4,1,2,84,['deep learning'],deep learning,AI & ML,3,True
+6,Dr Abhishek Narwaria,Assistant Professor Grade-II,Information Technology,"Machine learning, Deep learning",4,5,0,0,0,9,"['machine learning', 'deep learning']",machine learning,AI & ML,0,False
+7,Dr Arun Kumar,Assistant Professor Grade-II,Information Technology,"Machine Learning, Deep Learning",4,4,0,2,0,8,"['machine learning', 'deep learning']",machine learning,AI & ML,2,True
+8,Dr Avani Vyas,Assistant Professor (Grade-II),Information Technology,Networking and Communication,5,8,5,0,0,18,['computer networks'],computer networks,Networking & Communications,0,False
+9,Dr Bharat Krishan Mahaur,Assistant Professor Grade-II,Information Technology,Optimization,0,0,0,0,0,0,['optimization'],optimization,Theory & Optimization,0,False
+10,Dr Ikkurthi Bhanu Prasad,Assistant Professor Grade-II,Information Technology,Machine Learning,6,5,0,0,0,11,['machine learning'],machine learning,AI & ML,0,False
+11,Dr Jaspal Kaur Saini,Assistant Professor Grade-II,Information Technology,"Machine learning, Deep learning",5,6,0,0,1,11,"['machine learning', 'deep learning']",machine learning,AI & ML,1,True
+12,Dr Kumar Prateek,Assistant Professor Grade-II,Information Technology,Machine Learning,5,1,2,0,0,8,['machine learning'],machine learning,AI & ML,0,False
+12,Dr Naveen Kumar Gupta,Assistant Professor Grade-II,Information Technology,"AI, Machine Learning",10,12,1,0,1,23,"['artificial intelligence', 'machine learning']",artificial intelligence,AI & ML,1,True
+13,Dr Neeraj Kumar,Assistant Professor Grade-II,Information Technology,Machine Learning,21,12,5,0,0,38,['machine learning'],machine learning,AI & ML,0,False
+14,Dr Pallabi Sharma,Assistant Professor Grade-II,Information Technology,"Machine learning, Deep learning",8,0,0,0,0,8,"['machine learning', 'deep learning']",machine learning,AI & ML,0,False
+15,Dr Rabi Shaw,Assistant Professor Grade-II,Information Technology,"Machine learning, Deep learning",5,10,6,0,0,21,"['machine learning', 'deep learning']",machine learning,AI & ML,0,False
+16,Dr Ravi Yadav,Assistant Professor Grade-II,Information Technology,Blockchain,5,0,0,0,0,5,['blockchain'],blockchain,Distributed Systems,0,False
+17,Dr Simranjit Singh,Assistant Professor Grade-II,Information Technology,"Machine learning, Deep learning",12,5,1,3,0,18,"['machine learning', 'deep learning']",machine learning,AI & ML,3,True
+18,Dr Vikas Chauhan,Assistant Professor Grade-II,Information Technology,"Machine learning, Deep learning",6,4,0,0,1,10,"['machine learning', 'deep learning']",machine learning,AI & ML,1,True
+1,Dr Dilbag Singh,Professor,Instrumentation and Control Engineering,"Electrical Measurements and Instrumentation, Control System",58,9,5,3,0,72,"['instrumentation & control', 'control systems']",instrumentation & control,Signal Processing & Control,3,True
+2,Dr Kuldeep Singh Nagla,Professor & Head,Instrumentation and Control Engineering,Autonomous Mobile Robot,33,29,2,5,0,64,['robotics'],robotics,Robotics & Automation,5,True
+3,Dr Sharvan Kumar Pahuja,Professor,Instrumentation and Control Engineering,Control Systems,27,11,5,5,0,43,['control systems'],control systems,Signal Processing & Control,5,True
+4,Er Narinder Singh Bhangal,Associate Professor,Instrumentation and Control Engineering,Inverted Pendulum System,11,13,0,0,0,24,['control systems'],control systems,Signal Processing & Control,0,False
+5,Dr Rajesh Singla,Associate Professor,Instrumentation and Control Engineering,Machine Learning,26,25,6,0,3,57,['machine learning'],machine learning,AI & ML,3,True
+6,Dr Roop Pahuja,Associate Professor,Instrumentation and Control Engineering,Remote Sensing,34,22,3,3,0,59,['remote sensing'],remote sensing,Other,3,True
+7,Dr Sheela Tiwari,Associate Professor,Instrumentation and Control Engineering,Machine Learning,21,27,2,0,0,50,['machine learning'],machine learning,AI & ML,0,False
+8,Dr Afzal Sikander,Assistant Professor (Grade-I),Instrumentation and Control Engineering,Control Theory and Applications,54,34,22,2,1,110,['control systems'],control systems,Signal Processing & Control,3,True
+9,Dr Amit Kumar Singh,Assistant Professor (Grade-I),Instrumentation and Control Engineering,Controller Design,19,14,9,0,0,42,['control systems'],control systems,Signal Processing & Control,0,False
+10,Dr Anil Kumar Yadav,Assistant Professor (Grade-I),Instrumentation and Control Engineering,Intelligent & Nonlinear Control,55,9,6,2,2,70,"['control systems', 'control systems']",control systems,Signal Processing & Control,4,True
+11,Dr Karan Veer,Assistant Professor (Grade-I),Instrumentation and Control Engineering,biomedical instrumentation and Machine Learning,47,5,9,1,1,61,['machine learning'],machine learning,AI & ML,2,True
+12,Dr Om Prakash Verma,Assistant Professor (Grade-I),Instrumentation and Control Engineering,Computer Vision,52,1,26,1,3,79,['computer vision'],computer vision,AI & ML,4,True
+13,Dr Ravi Verma,Assistant Professor (Grade-I),Instrumentation and Control Engineering,Low temperature Instrumentation,7,9,3,0,3,19,['instrumentation & control'],instrumentation & control,Signal Processing & Control,3,True
+14,Dr Richa Sharma,Assistant Professor (Grade-I),Instrumentation and Control Engineering,Brain-Computer Interface (BCI),15,8,2,0,1,25,"['brain-computer interface', 'brain-computer interface']",brain-computer interface,Signal Processing & Control,1,True
+15,Dr Deblina Biswas,Assistant Professor (Grade-II),Instrumentation and Control Engineering,Biointsrumentation,13,7,4,1,0,24,['biomedical instrumentation'],biomedical instrumentation,Biotech & Life Sciences,1,True
+16,Dr Karan Jain,Assistant Professor (Grade-II),Instrumentation and Control Engineering,Biomedical instrumentation.,10,8,0,0,1,18,['biomedical instrumentation'],biomedical instrumentation,Biotech & Life Sciences,1,True
+17,Dr Mahendra Kumar,Assistant Professor (Grade-II),Instrumentation and Control Engineering,Advances in Control Theory,20,15,0,0,2,35,['control systems'],control systems,Signal Processing & Control,2,True
